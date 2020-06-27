@@ -8,3 +8,4 @@ min_value = min(student_grades)
 print(max_value, min_value)
 
  
+ 
