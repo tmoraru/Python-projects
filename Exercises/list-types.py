@@ -14,4 +14,4 @@ list(range(1, 10, 2))
 #Output [1, 3, 5, 7, 9]
 
 #how to add new item to list from CLI?  > >> monday_temperatures.append(6)
-#how to remove new item to list from CLI?  > >> monday_temperatures.remove(6)
+#how to remove new item to list from CLI?  > >> monday_temperatures.remove(6) 
