@@ -6,3 +6,4 @@ lenght = len(student_grades)  #len - return the number of items in a container
 mean = mysum / lenght
 print(mean)     
  
+ 
