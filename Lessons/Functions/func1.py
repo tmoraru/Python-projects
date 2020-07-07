@@ -11,3 +11,8 @@ print(type(mean), type(sum))
 def lengther(lst):
     return len(lst)
     
+
+#calculates the area of a square
+def square(a):
+    return a * a
+    
