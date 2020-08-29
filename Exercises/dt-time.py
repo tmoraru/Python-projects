@@ -7,4 +7,3 @@ print(datetime.datetime.now())    #datetime - module, datime - obj of that modul
                                   #it will print the time
 
 
-
