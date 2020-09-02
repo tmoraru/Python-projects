@@ -7,3 +7,4 @@ mean = mysum / lenght
 print(mean)     
  
  
+ 
